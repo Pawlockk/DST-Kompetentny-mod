@@ -1,0 +1,5 @@
+<Build name="ak47.scml">
+ <Symbol name="ak47">
+  <Frame framenum="0" duration="1" image="ak47" w="479" h="265" x="239.500000" y="132.500000"/>
+ </Symbol>
+</Build>
